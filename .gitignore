@@ -1,0 +1,11 @@
+# Python
+*.pyc
+*.pyo
+
+# emacs stuff
+*~
+\#*
+.DS_Store
+
+# don't store references
+ref/
